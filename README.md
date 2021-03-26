@@ -7,4 +7,4 @@ They can be seen as an handbook to fastly refresh some key topics of Computer an
 
 If these notes helped you somehow in your study, feel free to [offer me a coffee](https://www.paypal.com/donate?hosted_button_id=UCPRD75DKEZ4J)!
 
-[![Offer me a coffee!](https://raw.githubusercontent.com/PanK0/Computer-and-Network-Security-Notes/main/QR-Code/qr-code.png){width=20%}](https://www.paypal.com/donate?hosted_button_id=UCPRD75DKEZ4J)
+[![Offer me a coffee!](https://raw.githubusercontent.com/PanK0/Computer-and-Network-Security-Notes/main/QR-Code/qr-code.png)](https://www.paypal.com/donate?hosted_button_id=UCPRD75DKEZ4J)
